@@ -25,7 +25,7 @@ To submit changes to this repo, please do the following steps:
 ## Authors
 - [Michael McAllister](https://github.com/michaeldavidmcallister) - 101359469
 - [Eduardo Bastos de Moraes](https://github.com/eduardomoraes) - 101345799
-- [Alex Andrero](https://github.com/alex-andrero) - 
+- [Aleksandr Semenov](https://github.com/alex-andrero) - 101364351  
 - [Ziyad](https://github.com/zydelam)
 - [Sage](https://github.com/)
 
