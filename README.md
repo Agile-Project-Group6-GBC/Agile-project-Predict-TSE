@@ -26,6 +26,6 @@ To submit changes to this repo, please do the following steps:
 - [Michael McAllister](https://github.com/michaeldavidmcallister) - 101359469
 - [Eduardo Bastos de Moraes](https://github.com/eduardomoraes) - 101345799
 - [Aleksandr Semenov](https://github.com/alex-andrero) - 101364351  
-- [Ziyad](https://github.com/zydelam)
+- [Ziyad El Amrani-Joutey](https://github.com/zydelam) - 101366815
 - [Saurav Kundlas](https://github.com/susano22) - 101393134
 
